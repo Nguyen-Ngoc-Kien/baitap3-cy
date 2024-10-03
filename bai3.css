@@ -1,0 +1,83 @@
+.container{
+    width: 1304px;
+    height: 794px;
+    border: 4px solid #8CC5F9;
+    border-radius: 44px;
+    margin: auto;
+    margin-top: 150px;
+    display: flex;
+}
+
+.image {
+    margin-top: 50px;
+    margin-left: 50px;
+    width: 586px;
+    height: 694px;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 44px;
+}
+
+.title-name {
+    font-size: 44px;
+    color: #8CC5F9;
+    line-height: 52.14px;
+    font-style: italic;
+    font-weight: 700;
+}
+
+p.text-content {
+    font-family: "Rubik", sans-serif;
+    width: 552px;
+    height: 299px;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 37.92px;
+    color: #08090A;
+}
+
+.content {
+    font-weight: 300;
+    font-style: italic;
+    font-size: 32px;
+    line-height: 37.92px;
+    margin-left: 35px;
+    margin-top: 44px;
+}
+
+p.text-note {
+    font-family: "Rubik", sans-serif;
+    color: #878ABC;
+    width: 552px;
+    height: 129px;
+    font-weight: 300;
+    margin-top: 22px;
+}
+
+img.esc-svg {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+}
+
+.esc {
+    width: 40px;
+    height: 40px;
+    margin-top: 32px;
+}
+
+img.link-icon {
+    margin-top: -16px;
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.icon-link {
+    width: 172px;
+    height: 134px;
+}
